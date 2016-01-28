@@ -10,3 +10,19 @@ h1 {
   color: purple;
   background-color: orange;
 }
+
+.important {
+  color: orange;
+}
+
+.amazing {
+  color: pink;
+}
+
+.highlight {
+  color: green;
+}
+
+.fish-type {
+  color: red;
+}
