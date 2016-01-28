@@ -1,2 +1,12 @@
-h1 {color: blue;
+body {
+  margin: 15px auto auto 10px;
+}
+
+h1 {
+  color: blue;
+}
+
+.jumbotron {
+  color: purple;
+  background-color: orange;
 }
