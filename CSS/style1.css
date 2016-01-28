@@ -9,6 +9,9 @@ h1 {
 .jumbotron {
   color: purple;
   background-color: orange;
+  text-align: center;
+  border: 2px solid green;
+  padding: 4px;
 }
 
 .important {
@@ -25,4 +28,9 @@ h1 {
 
 .fish-type {
   color: red;
+}
+
+.column {
+  width: 300px;
+  float: left;
 }
